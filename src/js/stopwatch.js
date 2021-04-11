@@ -101,7 +101,8 @@ class StopWatch {
     }
 
     /**
-     * 
+     * Get the time elapsed since the stopwatch was started.
+     *
      * @returns 
      */
     _getElapsed() {
@@ -129,8 +130,6 @@ class StopWatch {
 
         return this.startDate;
     }
-
-    
 
     /**
      * Get the time elapsed for the current lap.
