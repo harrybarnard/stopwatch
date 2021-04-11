@@ -1,0 +1,27 @@
+{
+  "name": "stopwatch",
+  "version": "1.0.0",
+  "main": "public/index.html",
+  "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Harry Barnard",
+    "email": "harry@harrybarnard.com",
+    "url": "https://harrybarnard.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:harrybarnard/stopwatch.git"
+  },
+  "scripts": {
+    "build": "gulp",
+    "watch": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^5.0.0"
+  }
+}
