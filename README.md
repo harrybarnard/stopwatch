@@ -1,7 +1,7 @@
 # Stopwatch
 A JavaScript stopwatch application.
 
-To view the poster load `<path to repo>/public/index.html` in your browser.
+To view the stopwatch load `<path to repo>/public/index.html` in your browser.
 
 ## Commands
 Install build dependencies:
